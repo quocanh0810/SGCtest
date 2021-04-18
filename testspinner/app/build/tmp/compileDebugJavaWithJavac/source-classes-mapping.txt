@@ -1,0 +1,15 @@
+com/example/testspinner/MainActivity.java
+ com.example.testspinner.MainActivity
+ com.example.testspinner.MainActivity$1
+ com.example.testspinner.MainActivity$1$1
+ com.example.testspinner.MainActivity$2
+ com.example.testspinner.MainActivity$3
+ com.example.testspinner.MainActivity$4
+ com.example.testspinner.MainActivity$5
+ com.example.testspinner.MainActivity$6
+com/example/testspinner/CategoryAdapter.java
+ com.example.testspinner.CategoryAdapter
+com/example/testspinner/Category.java
+ com.example.testspinner.Category
+com/example/testspinner/BuildConfig.java
+ com.example.testspinner.BuildConfig
